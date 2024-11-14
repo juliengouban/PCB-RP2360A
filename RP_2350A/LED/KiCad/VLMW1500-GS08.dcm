@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VLMW1500-GS08
+D VISHAY - VLMW1500-GS08 - LED, WHITE, 180MCD, 7000K, 0402
+K
+F http://www.vishay.com/docs/82522/vlmw1500.pdf
+$ENDCMP
+#
+#End Doc Library
